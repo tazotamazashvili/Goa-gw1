@@ -1,0 +1,9 @@
+{
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.anonymousGuestApproval": "accept",
+    "liveshare.languages.allowGuestCommandControl": true,
+    "liveshare.nameTagVisibility": "Always",
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "liveshare.showReadOnlyUsersInEditor": "always"
+}
